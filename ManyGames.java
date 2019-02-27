@@ -6,6 +6,7 @@ public class ManyGames {
 		new Morpion();
 		new Bang();
 		//test
+		//test
 	}
 
 }
